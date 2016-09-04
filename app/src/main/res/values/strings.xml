@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Card Validator</string>
+    <string name="ask_card_number">Please Enter Your Card Number!</string>
+</resources>
