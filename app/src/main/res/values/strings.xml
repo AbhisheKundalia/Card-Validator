@@ -1,4 +1,6 @@
 <resources>
     <string name="app_name">Card Validator</string>
     <string name="ask_card_number">Please Enter Your Card Number!</string>
+    <string name="valid_card">Verified Successfully!</string>
+    <string name="invalid_card">Verification Unsuccessful!</string>
 </resources>
